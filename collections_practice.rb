@@ -40,4 +40,7 @@ array.inject do |array, sum|
 end
 end
 
+def add_s(array)
+  
+
     
